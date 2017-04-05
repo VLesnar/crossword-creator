@@ -10,6 +10,9 @@ namespace CrosswordCreator
     {
         static void Main(string[] args)
         {
+            Grid grid = new Grid();
+            grid.CreateGrid();
+            Console.ReadLine();
         }
     }
 }

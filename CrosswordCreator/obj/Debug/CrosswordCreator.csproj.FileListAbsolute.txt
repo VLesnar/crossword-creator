@@ -1,1 +1,6 @@
 C:\Users\Veronica\Desktop\CrosswordCreator\CrosswordCreator\bin\Debug\CrosswordCreator.exe.config
+C:\Users\Veronica\Desktop\CrosswordCreator\CrosswordCreator\bin\Debug\CrosswordCreator.exe
+C:\Users\Veronica\Desktop\CrosswordCreator\CrosswordCreator\bin\Debug\CrosswordCreator.pdb
+C:\Users\Veronica\Desktop\CrosswordCreator\CrosswordCreator\obj\Debug\CrosswordCreator.csprojResolveAssemblyReference.cache
+C:\Users\Veronica\Desktop\CrosswordCreator\CrosswordCreator\obj\Debug\CrosswordCreator.exe
+C:\Users\Veronica\Desktop\CrosswordCreator\CrosswordCreator\obj\Debug\CrosswordCreator.pdb
